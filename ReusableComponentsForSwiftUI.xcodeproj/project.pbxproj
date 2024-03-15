@@ -12,6 +12,7 @@
 		D97B822D2BA4C16900D93060 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97B822C2BA4C16900D93060 /* Assets.xcassets */; };
 		D97B82302BA4C16900D93060 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97B822F2BA4C16900D93060 /* Preview Assets.xcassets */; };
 		D9C6AEBD2BA4C27100CFAA7B /* MeasureSizeModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C6AEBC2BA4C27100CFAA7B /* MeasureSizeModifier.swift */; };
+		D9C6AEBF2BA4C37100CFAA7B /* GradientModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C6AEBE2BA4C37100CFAA7B /* GradientModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		D97B822C2BA4C16900D93060 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D97B822F2BA4C16900D93060 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D9C6AEBC2BA4C27100CFAA7B /* MeasureSizeModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeasureSizeModifier.swift; sourceTree = "<group>"; };
+		D9C6AEBE2BA4C37100CFAA7B /* GradientModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		D9C6AEBA2BA4C1FB00CFAA7B /* Modifiers */ = {
 			isa = PBXGroup;
 			children = (
+				D9C6AEBE2BA4C37100CFAA7B /* GradientModifier.swift */,
 				D9C6AEBC2BA4C27100CFAA7B /* MeasureSizeModifier.swift */,
 			);
 			path = Modifiers;
@@ -166,6 +169,7 @@
 			files = (
 				D97B822B2BA4C16900D93060 /* ContentView.swift in Sources */,
 				D97B82292BA4C16900D93060 /* App.swift in Sources */,
+				D9C6AEBF2BA4C37100CFAA7B /* GradientModifier.swift in Sources */,
 				D9C6AEBD2BA4C27100CFAA7B /* MeasureSizeModifier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

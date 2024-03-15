@@ -36,7 +36,6 @@ struct MeasureSizeExampleView: View {
     // Number variables
     @State private var height: CGFloat = 0
     
-    // MARK: - body
     var body: some View {
         Rectangle()
             .overlay {
