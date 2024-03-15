@@ -15,6 +15,7 @@
 		D9C6AEBF2BA4C37100CFAA7B /* GradientModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C6AEBE2BA4C37100CFAA7B /* GradientModifier.swift */; };
 		D9C6AEC12BA4C9D400CFAA7B /* BannerModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C6AEC02BA4C9D400CFAA7B /* BannerModifier.swift */; };
 		D9C6AEC42BA4CC5F00CFAA7B /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C6AEC32BA4CC5F00CFAA7B /* String.swift */; };
+		D9C6AEC82BA4D68A00CFAA7B /* Bundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C6AEC72BA4D68A00CFAA7B /* Bundle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		D9C6AEBE2BA4C37100CFAA7B /* GradientModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientModifier.swift; sourceTree = "<group>"; };
 		D9C6AEC02BA4C9D400CFAA7B /* BannerModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BannerModifier.swift; sourceTree = "<group>"; };
 		D9C6AEC32BA4CC5F00CFAA7B /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		D9C6AEC72BA4D68A00CFAA7B /* Bundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bundle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				D9C6AEC32BA4CC5F00CFAA7B /* String.swift */,
+				D9C6AEC72BA4D68A00CFAA7B /* Bundle.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9C6AEC42BA4CC5F00CFAA7B /* String.swift in Sources */,
+				D9C6AEC82BA4D68A00CFAA7B /* Bundle.swift in Sources */,
 				D97B822B2BA4C16900D93060 /* ContentView.swift in Sources */,
 				D97B82292BA4C16900D93060 /* App.swift in Sources */,
 				D9C6AEBF2BA4C37100CFAA7B /* GradientModifier.swift in Sources */,
