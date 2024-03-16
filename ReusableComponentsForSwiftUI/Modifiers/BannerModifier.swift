@@ -1,6 +1,6 @@
 //
 //  BannerModifier.swift
-//  AnimationSmallBannerAppear
+//  ReusableComponentsForSwiftUI
 //
 //  Created by Theo Sementa on 19/01/2024.
 //

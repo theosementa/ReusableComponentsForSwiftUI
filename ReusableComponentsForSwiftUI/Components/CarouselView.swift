@@ -1,6 +1,6 @@
 //
 //  CarouselView.swift
-//  HappyEat_iOS
+//  ReusableComponentsForSwiftUI
 //
 //  Created by KaayZenn on 13/03/2024.
 //

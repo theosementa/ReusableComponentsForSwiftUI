@@ -1,6 +1,6 @@
 //
 //  MeasureSizeModifier.swift
-//  CardShuffeler
+//  ReusableComponentsForSwiftUI
 //
 //  Created by Theo Sementa on 05/02/2024.
 //
