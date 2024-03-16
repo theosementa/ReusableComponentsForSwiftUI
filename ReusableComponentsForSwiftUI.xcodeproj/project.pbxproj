@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D967D63B2BA5710200B40EDE /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D967D63A2BA5710200B40EDE /* CarouselView.swift */; };
+		D967D63D2BA5747700B40EDE /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D967D63C2BA5747700B40EDE /* Colors.xcassets */; };
 		D97B82292BA4C16900D93060 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97B82282BA4C16900D93060 /* App.swift */; };
 		D97B822B2BA4C16900D93060 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97B822A2BA4C16900D93060 /* ContentView.swift */; };
 		D97B822D2BA4C16900D93060 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97B822C2BA4C16900D93060 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D967D63A2BA5710200B40EDE /* CarouselView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
+		D967D63C2BA5747700B40EDE /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		D97B82252BA4C16900D93060 /* ReusableComponentsForSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReusableComponentsForSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D97B82282BA4C16900D93060 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		D97B822A2BA4C16900D93060 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,7 +75,6 @@
 				D9C6AEBA2BA4C1FB00CFAA7B /* Modifiers */,
 				D9C6AEC22BA4CC5200CFAA7B /* Extensions */,
 				D9C6AEBB2BA4C20500CFAA7B /* Ressources */,
-				D97B822C2BA4C16900D93060 /* Assets.xcassets */,
 				D97B822E2BA4C16900D93060 /* Preview Content */,
 			);
 			path = ReusableComponentsForSwiftUI;
@@ -108,6 +109,8 @@
 		D9C6AEBB2BA4C20500CFAA7B /* Ressources */ = {
 			isa = PBXGroup;
 			children = (
+				D97B822C2BA4C16900D93060 /* Assets.xcassets */,
+				D967D63C2BA5747700B40EDE /* Colors.xcassets */,
 			);
 			path = Ressources;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D967D63D2BA5747700B40EDE /* Colors.xcassets in Resources */,
 				D97B82302BA4C16900D93060 /* Preview Assets.xcassets in Resources */,
 				D97B822D2BA4C16900D93060 /* Assets.xcassets in Resources */,
 			);
