@@ -11,6 +11,7 @@
 		D967D63D2BA5747700B40EDE /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D967D63C2BA5747700B40EDE /* Colors.xcassets */; };
 		D967D63F2BA5751700B40EDE /* EmojiTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D967D63E2BA5751700B40EDE /* EmojiTextField.swift */; };
 		D967D6422BA5763B00B40EDE /* SwipeBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D967D6412BA5763B00B40EDE /* SwipeBack.swift */; };
+		D967D6442BA5784100B40EDE /* CornerPaddingModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D967D6432BA5784100B40EDE /* CornerPaddingModifier.swift */; };
 		D97B82292BA4C16900D93060 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97B82282BA4C16900D93060 /* App.swift */; };
 		D97B822B2BA4C16900D93060 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97B822A2BA4C16900D93060 /* ContentView.swift */; };
 		D97B822D2BA4C16900D93060 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97B822C2BA4C16900D93060 /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 		D967D63C2BA5747700B40EDE /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		D967D63E2BA5751700B40EDE /* EmojiTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiTextField.swift; sourceTree = "<group>"; };
 		D967D6412BA5763B00B40EDE /* SwipeBack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeBack.swift; sourceTree = "<group>"; };
+		D967D6432BA5784100B40EDE /* CornerPaddingModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerPaddingModifier.swift; sourceTree = "<group>"; };
 		D97B82252BA4C16900D93060 /* ReusableComponentsForSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReusableComponentsForSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D97B82282BA4C16900D93060 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		D97B822A2BA4C16900D93060 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				D9C6AEC02BA4C9D400CFAA7B /* BannerModifier.swift */,
 				D9C6AEBE2BA4C37100CFAA7B /* GradientModifier.swift */,
 				D9C6AEBC2BA4C27100CFAA7B /* MeasureSizeModifier.swift */,
+				D967D6432BA5784100B40EDE /* CornerPaddingModifier.swift */,
 			);
 			path = Modifiers;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				D9C6AEC42BA4CC5F00CFAA7B /* String.swift in Sources */,
 				D9C6AEC82BA4D68A00CFAA7B /* Bundle.swift in Sources */,
 				D9C6AECA2BA4D74B00CFAA7B /* Double.swift in Sources */,
+				D967D6442BA5784100B40EDE /* CornerPaddingModifier.swift in Sources */,
 				D97B822B2BA4C16900D93060 /* ContentView.swift in Sources */,
 				D97B82292BA4C16900D93060 /* App.swift in Sources */,
 				D9C6AEBF2BA4C37100CFAA7B /* GradientModifier.swift in Sources */,
